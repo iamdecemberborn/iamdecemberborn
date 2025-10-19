@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**iamdecemberborn/iamdecemberborn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<image-card alt="Profile Image" src="https://via.placeholder.com/150" ></image-card>
 
-Here are some ideas to get you started:
+## kumar Anuj / README.md
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **name**: 
+- **role**: 
+- **experience**:
+- **skills**:
+  - Computer Science
+  - Cloud Computing
+  - DevOps
+  - Infrastructure as Code
+- **contact**:
+  - [github](https://github.com/)
+  - [linkedin](https://www.linkedin.com/in/)
+
+I feel confident with the following programming languages  
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
