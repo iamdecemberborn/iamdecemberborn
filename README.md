@@ -30,5 +30,6 @@
   }
 }
 
-I feel confident with the following programming languages  
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+I feel confident with the following programming languages and technologies
+
+[![My Skills](https://skillicons.dev/icons?i=py,sqlite,aws,github,pycharm,terraform&perline=3)](https://skillicons.dev)
